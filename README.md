@@ -10,7 +10,7 @@ Este projeto foi criado para colocar em pratica os conhecimentos adquiridos em H
 o projeto encontra-se hospedado no link abaixo:
 
 
-https://landingproject102.netlify.app/
+https://calculadora101simples.netlify.app/
 
 Tecnologias utilizadas 
 
