@@ -1,6 +1,5 @@
 # Calculadora-Simples
 
-# Landing-Page
 
 
 
