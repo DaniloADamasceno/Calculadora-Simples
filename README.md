@@ -1,15 +1,15 @@
 # Calculadora-Simples
 
 
+![Calculadora Silples](https://user-images.githubusercontent.com/71226047/179368321-13da3689-fb99-4ad5-b15c-6f6cacf8d714.jpg)
 
-
-Este projeto foi criado para colocar em pratica os conhecimentos adquiridos em HTML, CSS e principalmente em  Javascript.
+Este projeto foi criado para colocar em prática os conhecimentos adquiridos em HTML, CSS e principalmente em  Javascript.
   O objetivo deste projeto e o desenvolvimento de uma calculadora simples afim de aprimorar a utilização de Factory Functions do Javascript 
 
 o projeto encontra-se hospedado no link abaixo:
 
 
-https://calculadora101simples.netlify.app/
+[Calculadora Simples](https://calculadora101simples.netlify.app/)
 
 Tecnologias utilizadas 
 
@@ -25,5 +25,8 @@ Tecnologias utilizadas
 
 
 ______________________________________________________________________________________________________________________________________________________________
-Atualizações do Projeto 
+ # Atualizações do Projeto 
+ 
+  *Atualização* 1.01 :
+  > Adicionada imagem ao Readme e correções gramaticais.
 
