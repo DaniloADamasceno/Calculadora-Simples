@@ -3,6 +3,10 @@
 
 ![Calculadora Silples](https://user-images.githubusercontent.com/71226047/179368321-13da3689-fb99-4ad5-b15c-6f6cacf8d714.jpg)
 
+
+![GitHub repo size](https://img.shields.io/github/repo-size/DaniloADamasceno/Calculadora-Simples?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/DaniloADamasceno/Calculadora-Simples?style=for-the-badge)
+
 Este projeto foi criado para colocar em prática os conhecimentos adquiridos em HTML, CSS e principalmente em  Javascript.
   O objetivo deste projeto e o desenvolvimento de uma calculadora simples afim de aprimorar a utilização de Factory Functions do Javascript 
 
@@ -24,9 +28,18 @@ Tecnologias utilizadas
 •      ![GoogleFonts Status](https://img.shields.io/badge/Google-Fonts-green)
 
 
+
+
+## Autores
+
+- [@DaniloADamasceno](https://github.com/DaniloADamasceno)
+
 ______________________________________________________________________________________________________________________________________________________________
  # Atualizações do Projeto 
  
+   *Atualização* 1.02 :
+  > Adicionada imagem ao Readme.
+  
   *Atualização* 1.01 :
   > Adicionada imagem ao Readme e correções gramaticais.
 
