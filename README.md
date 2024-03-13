@@ -1,4 +1,4 @@
-# Calculadora-Simples
+# Calculadora Simples
 
 </hr>
 </br>
@@ -7,9 +7,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DaniloADamasceno/Calculadora-Simples?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/DaniloADamasceno/Calculadora-Simples?style=for-the-badge)
 
-[![wakatime](https://wakatime.com/badge/github/DaniloADamasceno/Calculadora-Simples.svg)](https://wakatime.com/badge/github/DaniloADamasceno/Calculadora-Simples)
-
-
+[![Repository Views](https://komarev.com/ghpvc/?username=DaniloADamascenoCalculadora&label=Views&color=brightgreen)](https://github.com/DaniloADamasceno/Calculadora-Simples)
 <!-- Imagem da Tela inicial do Aplicativo -->
 <div align="center">
 
@@ -19,7 +17,7 @@
 </br>
 </br>
 
-## Descrição do Projeto
+### 📃 Descrição do Projeto
 
 </br>
 
@@ -29,7 +27,8 @@ Este projeto foi criado para colocar em prática os conhecimentos adquiridos em 
 o projeto encontra-se hospedado no link abaixo:
 
 
-### Contribuição
+
+## 📦 Contribuição
 
 Este é um projeto de código aberto e estou aberto a contribuições da comunidade.
 Se desejar contribuir para este projeto, siga estas etapas:
@@ -41,7 +40,7 @@ Se desejar contribuir para este projeto, siga estas etapas:
 5. Envie para o branch principal do repositório original: *git push origin main*.
 6. Abra um pull request no GitHub.
 
-## Stack utilizada
+## 🛠️ Stack utilizadas
 
  ![HTML Status](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Status](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,29 +51,36 @@ Se desejar contribuir para este projeto, siga estas etapas:
 
  **Hospedagem:** [![Netlify Status](https://api.netlify.com/api/v1/badges/4fcccf50-a6d6-452b-839e-6852f4824112/deploy-status)](https://app.netlify.com/sites/clocktimer101/deploys)
 
-## Autores
 
-- [@Danilo A. Damasceno](https://github.com/DaniloADamasceno/)
+## ✒️ Autores
 
-</br>
-</br>
-</br>
+Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-________________________________________________________________________________________________________________________________________________________________
+* **Desenvolvedor** -  [@Danilo A. Damasceno](https://github.com/DaniloADamasceno/)
+* **Documentação** -   [@Danilo A. Damasceno](https://github.com/DaniloADamasceno/)
 
-## Atualizações do Projeto
 
-*Atualização* 1.03.0:
-> AMelhoria do readme.
-> --> **PROJETO EM CONCLUÍDO.**
-</br>
+</br></br></br>
+</hr>
 
-*Atualização* 1.02.0:
-> Adicionada imagem ao Readme.
-> --> **PROJETO EM CONCLUÍDO.**
+## 📄 Atualizações de Projeto e suas Versões
+
+### **Atualização**: 1.0.3:
+
+- Melhorias de Readme.
+- --> **PROJETO EM CONCLUÍDO.**
 </br>
 
-*Atualização* 1.01.0:
-> Adicionada imagem ao Readme e correções gramaticais.
-> --> **PROJETO EM CONCLUÍDO.**
+### **Atualização**: 1.0.2:
+
+- Adicionadas imagens ao Readme.
+- --> **PROJETO EM CONCLUÍDO.**
 </br>
+
+### **Atualização**: 1.0.1:
+
+- Desenvolvimento Inicial do projeto.
+- Adicionada imagem ao Readme e correções gramaticais.
+- --> **PROJETO EM CONCLUÍDO.**
+</br>
+
