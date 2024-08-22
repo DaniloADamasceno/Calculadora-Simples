@@ -26,6 +26,7 @@ Este projeto foi criado para colocar em prática os conhecimentos adquiridos em 
 
 o projeto encontra-se hospedado no link abaixo:
 
+[Calculadora Simples com Construction Functions](https://calculadora101simples.netlify.app/)
 
 
 ## 📦 Contribuição
